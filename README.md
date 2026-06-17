@@ -22,7 +22,7 @@ The model was validated on a dataset consisting of **124,988 frames** and **77 v
 4. **Night_Light_Glasses:** 17 cases (24,586 frames)
 
 Due to file size constraints on GitHub, the complete raw dataset along with the validation files can be fully downloaded from our managed storage:
-👉 **[Download Dataset & Verification Files via Google Drive]** *(Note: Ensure you insert your shared Google Drive link here)*
+👉 **https://drive.google.com/drive/folders/1SkD5U9TYQa9wGh1YvhCKU5nSEBzf5ol_** *(Note: Ensure you insert your shared Google Drive link here)*
 
 ## Pipeline Execution Order
 To reproduce the experimental results documented in our paper, please execute the scripts in the `src/` directory sequentially:
